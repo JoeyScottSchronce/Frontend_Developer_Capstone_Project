@@ -1,4 +1,4 @@
-# **Capstone Project: IBM Frontend Developer Professional Certificate**
+# **IBM Frontend Developer Capstone Project**
 
 ## **Overview**
 Stay Healthy Inc: a medical appointment booking website to provide access to medical care in remote areas. 
