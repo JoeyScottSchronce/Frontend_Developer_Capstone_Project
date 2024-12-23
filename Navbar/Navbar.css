@@ -98,13 +98,14 @@ nav {
     padding: 0 1rem;
     color: #0d213f;
     transition: 0.3s;
-    font-family: Knewave, serif;
+    font-family: "Knewave", serif;
     text-decoration: none;
 }
 
 /* Hover effect for individual links in the navigation */
 .link a:hover {
     color: #C31717;
+    text-decoration: underline;
 }
 
 /* Media queries for mobile responsiveness */
